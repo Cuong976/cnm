@@ -1,0 +1,21 @@
+B1: Mở folder làm việc
+
+B2: gõ npm init -y : tạo file package.json
+
+B3: cài đặt thư viện express: npm install express
+
+B4: tạo file index.js --> kết nối và thao tác CURD với dynamoDB (AWS)
+
+B5: Cài đặt thư viện nodemon: npm install nodemon
+
+B6: Trong file package.json thêm "start": "nodemon index.js",
+
+B7: Chạy npm run start
+
+B8: Tạo folder views, trong folder tạo 2 file index.ejs và index.css
+
+B9: Install thư viện aws-sdk: npm install aws-sdk
+
+//////
+Access key ID: AKIAXSRWE6UPHPTXCCST
+Secret access key: 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
